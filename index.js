@@ -1,2 +1,2 @@
-var recipe = {Ingredient : 'sugar'}
+var recipes = {Ingredient : 'sugar'}
 
