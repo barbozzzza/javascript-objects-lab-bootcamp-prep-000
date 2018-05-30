@@ -1,8 +1,8 @@
 var recipes = {Ingredient : 'item'}
 
-function updateObjectWithKeyAndValue(recipes,Ingredient,item){
+function updateObjectWithKeyAndValue(recipes,Ingredient2,item){
   
-  recipes.Ingredient
+  recipes.Ingredient2
    
   
   
