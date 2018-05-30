@@ -9,4 +9,8 @@ function updateObjectWithKeyAndValue(object,key,value){
   
 }
 
-function de
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
+  
+  
+  
+}
