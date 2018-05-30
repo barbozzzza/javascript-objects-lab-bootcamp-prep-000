@@ -32,9 +32,9 @@ function destructivelyDeleteFromObjectByKey(object, key) {
   
   
   
-  delete obj[key];
+  delete object[key];
   
-  return obj
+  return object
   
 }
 
